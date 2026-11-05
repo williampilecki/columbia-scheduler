@@ -1,0 +1,72 @@
+{
+  "data": {
+    "total_count": 2,
+    "courses": [
+      {
+        "subject": {
+          "subject_code": "TEST"
+        },
+        "course_number": "2000",
+        "course_official_title": "Synthetic Course",
+        "course_description": "<p>Prerequisites: TEST 1000 &amp; permission.</p>",
+        "language": true,
+        "consider_for_science_requirement": true,
+        "class_data": {
+          "class_count": 2,
+          "classes": [
+            {
+              "id": 900001,
+              "term_calendar_code": "20263",
+              "section_code": "001",
+              "class_suffix": {
+                "course_suffix_code": "UN"
+              },
+              "min_unit": 3,
+              "max_unit": 3,
+              "meeting_details": [
+                {
+                  "begin_date": "2026-09-08",
+                  "end_date": "2026-12-14",
+                  "meeting_pattern": {
+                    "meetingpatterndetail_set": [
+                      {
+                        "week_day": "Tu",
+                        "from_time": "14:40:00",
+                        "to_time": "15:55:00"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": 900002,
+              "term_calendar_code": "20263",
+              "section_code": "002",
+              "class_suffix": {
+                "course_suffix_code": "UN"
+              },
+              "min_unit": 3,
+              "max_unit": 3,
+              "meeting_details": [
+                {
+                  "begin_date": "2026-09-08",
+                  "end_date": "2026-12-14",
+                  "meeting_pattern": {
+                    "meetingpatterndetail_set": [
+                      {
+                        "week_day": "Tu",
+                        "from_time": "15:40:00",
+                        "to_time": "16:55:00"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

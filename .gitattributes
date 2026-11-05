@@ -1,0 +1,2 @@
+# Tabs preserve empty date columns in the example catalog.
+*.tsv whitespace=-blank-at-eol

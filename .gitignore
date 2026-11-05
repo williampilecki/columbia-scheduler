@@ -1,0 +1,9 @@
+/build/
+/scheduler.jar
+*.class
+__pycache__/
+.idea/
+*.iml
+.DS_Store
+/local/
+/catalog.tsv
