@@ -7,7 +7,7 @@ A Java command-line planner for Columbia course sections. Give it a term and a l
 The scheduler generates conflict-free course schedules
 and ranks them by weekly idle time.
 
-![Columbia Scheduler CLI demo](docs/demo.png)
+![Columbia Scheduler CLI demo](docs/demo.jpg)
 
 ## Run the demo
 
