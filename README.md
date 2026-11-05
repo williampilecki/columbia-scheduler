@@ -2,6 +2,13 @@
 
 A Java command-line planner for Columbia course sections. Give it a term and a list of courses, and it prints the three conflict-free schedules with the least time between classes. If the courses cannot fit together, it identifies a subset that explains the conflict.
 
+## Demo
+
+The scheduler generates conflict-free course schedules
+and ranks them by weekly idle time.
+
+![Columbia Scheduler CLI demo](docs/demo.png)
+
 ## Run the demo
 
 From the repository root with JDK 17 or newer:
