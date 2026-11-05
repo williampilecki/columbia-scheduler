@@ -55,3 +55,9 @@ python3 test/test_cli.py
 ```
 
 The suite covers the CLI, Vergil conversion, meeting conflicts, and ranking. It also compares the planner against exhaustive enumeration on 25 generated catalogs.
+
+## Planned Improvements
+
+- **Live Vergil Integration:** Retrieve up-to-date course and section information directly from Columbia's Vergil system, eliminating the need for manually exported course data.
+- **Simplified Setup:** Streamline installation and execution with cross-platform build scripts and clearer setup instructions, particularly for Windows users.
+- **Improved User Experience:** Make course selection and schedule generation more intuitive, reducing reliance on command-line arguments.
